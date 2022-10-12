@@ -1,0 +1,7 @@
+https://credicorponline.sharepoint.com/:x:/s/MinsaitBCP/EcAy5SFLpsZCuzo4bf-3dNABNZkG43J3y6hEBKrqEuGnmQ?e=AoIQ2T
+Ruta confluence Chapter DE: https://confluence.lima.bcp.com.pe/pages/viewpage.action?pageId=551430798
+Ruta OnBoarding General: https://confluence.lima.bcp.com.pe/display/LKDVDEPUB/Onboarding+General
+Ruta Jenkins de producción: https://confluence.lima.bcp.com.pe/display/COEDAPUB/Plantilla+de+instrucciones+para+despliegue+pipeline+jenkins+lkdv
+Ruta Checklist revision de pares: https://confluence.lima.bcp.com.pe/display/LKDVDEPUB/Ecosistema+DataLake
+Ruta Checklist Seguridad: https://confluence.lima.bcp.com.pe/display/CTTIIPUB/1.+Documentos
+Ruta AUTODOC: https://confluence.lima.bcp.com.pe/display/LKDVDEPUB/Utilitarios
